@@ -1,4 +1,4 @@
 {
   "mongoURI":
-    "mongodb+srv://djimon:2RQN9fSoRSAfWyZA@cluster0.dyqrmss.mongodb.net/?retryWrites=true&w=majority"
+    "mongodb+srv://djimon:<password>@cluster0.dyqrmss.mongodb.net/?retryWrites=true&w=majority"
 }
