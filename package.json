@@ -1,0 +1,31 @@
+{
+  "name": "pnpsessionbuilder",
+  "version": "0.0.1",
+  "description": "tool for preparing a pnp session",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "app": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Djimon/pnpsessionbuilder.git"
+  },
+  "author": "Djimon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Djimon/pnpsessionbuilder/issues"
+  },
+  "homepage": "https://github.com/Djimon/pnpsessionbuilder#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "config": "^3.3.9",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
